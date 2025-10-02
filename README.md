@@ -3,7 +3,7 @@
 # 👑 DemonKing369
 
 🛡️ **AI Security Researcher | Cybersecurity Specialist | Prompt Engineer | Ethical Hacker**
-⚡ **Bug Bounty Hunter | AI Tool Builder | Dark Web Explorer | Student of Class 12 (Non-Medical)**
+⚡ **Bug Bounty Hunter | AI Tool Builder | Dark Web Explorer | Student of Class 12 (CS-Student)**
 🚀 **Future Architect of Autonomous AI Systems (Jarvis-like)**
 
 ---
@@ -17,7 +17,7 @@ I specialize in **autonomous AI systems, exploit development, vulnerability rese
 * 🐉 **Cybersecurity Researcher** – red teaming, dark web OSINT, ethical hacking.
 * ⚡ **Coder** – Python 🐍 and SQL are my main weapons.
 * 💻 **Platforms I Code On** – VS Code, Cursor, Termux, custom Ghost OS.
-* 🖥 **Operating Systems I Master** – Windows 💠, Arch Linux 🏹, Kali Linux 🐉, GrapheneOS 📱.
+* 🖥 **Operating Systems I Master** – Windows 💠, Arch Linux 🏹, Kali Linux 🐉.
 * 🧠 **Vision** – To build a **self-learning AI system** that autonomously hunts vulnerabilities, exploits targets, writes reports, and evolves like Jarvis.
 
 ---
@@ -66,9 +66,7 @@ Here’s a glimpse of the concepts I’ve been working on and experimenting with
 ## 🌍 Connect With Me
 
 * 🔗 **GitHub**: [github.com/demonking369](https://github.com/demonking369)
-* 🎥 **YouTube**: (Your channel link if you want it here)
-* 🕶 **Instagram**: (optional)
-* 💬 **Discord/WhatsApp/Other**: (optional)
+* 🕶 **Instagram**:https://www.instagram.com/demonking369.0
 
 ---
 
