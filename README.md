@@ -55,11 +55,7 @@ Here’s a glimpse of the concepts I’ve been working on and experimenting with
 
 **Operating Systems**
 
-* ![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg)
-* ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-* ![Arch Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg)
-* ![Kali Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg)
-
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30px" style="border-radius:50%"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30px" style="border-radius:50%"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="30px" style="border-radius:50%"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="30px" style="border-radius:50%"/> </p>
 ---
 
 ## 📊 GitHub Stats
