@@ -3,7 +3,7 @@
 # 👑 DemonKing369
 
 🛡️ **AI Security Researcher | Cybersecurity Specialist | Prompt Engineer | Ethical Hacker**
-⚡ **Bug Bounty Hunter | AI Tool Builder | Dark Web Explorer | Student of Class 12 (CS-Student)**
+⚡ **Bug Bounty Hunter | AI Tool Builder | Dark Web Explorer |**
 🚀 **Future Architect of Autonomous AI Systems (Jarvis-like)**
 
 ---
