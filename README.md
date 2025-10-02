@@ -39,7 +39,8 @@ Here’s a glimpse of the concepts I’ve been working on and experimenting with
 
 **Languages & Core Skills**
 
-* Python 🐍 | SQL 🗄 | C ⚙️ | C++ ⚡ | Java ☕ | JavaScript 🌐 | Bash 🐚
+* Python 🐍 | SQL 🗄 | (My skills)
+* | C ⚙️ | C++ ⚡ | Java ☕ | JavaScript 🌐 | Bash 🐚| Any Language |(with AI)
 
 **Frameworks & Tools**
 
