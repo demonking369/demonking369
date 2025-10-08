@@ -16,13 +16,13 @@ I specialize in **autonomous AI systems, exploit development, vulnerability rese
 * 🔐 **AI Prompt Engineer** – pushing boundaries of LLMs & finding exploit paths.
 * 🐉 **Cybersecurity Researcher** – red teaming, dark web OSINT, ethical hacking.
 * ⚡ **Coder** – Python 🐍 and SQL are my main weapons.
-* 💻 **Platforms I Code On** – VS Code, Cursor, Termux, custom Ghost OS.
+* 💻 **Platforms I Code On** – VS Code, Cursor, Termux.
 * 🖥 **Operating Systems I Master** – Windows 💠, Arch Linux 🏹, Kali Linux 🐉.
 * 🧠 **Vision** – To build a **self-learning AI system** that autonomously hunts vulnerabilities, exploits targets, writes reports, and evolves like Jarvis.
 
 ---
 
-## 🔮 Big Brain Projects & Ideas
+## 🔮Projects & Ideas for future 
 
 Here’s a glimpse of the concepts I’ve been working on and experimenting with:
 
