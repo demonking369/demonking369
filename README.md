@@ -56,8 +56,8 @@ Here’s a glimpse of the concepts I’ve been working on and experimenting with
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=demonking369&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demonking369&layout=compact&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=demonking369&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=demonking369&layout=compact&theme=radical)
 ![Streak](https://streak-stats.demolab.com/?user=demonking369&theme=radical)
 
 ---
