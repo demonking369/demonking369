@@ -55,13 +55,6 @@ Here’s a glimpse of the concepts I’ve been working on and experimenting with
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30px" style="border-radius:50%"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30px" style="border-radius:50%"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="30px" style="border-radius:50%"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="30px" style="border-radius:50%"/> </p>
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=demonking369&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=demonking369&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=demonking369&theme=radical)
-
----
-
 ## 🌍 Connect With Me
 
 * 🔗 **GitHub**: [github.com/demonking369](https://github.com/demonking369)
